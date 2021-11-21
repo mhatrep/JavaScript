@@ -23,3 +23,7 @@ const myArray = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(slidingWindows(myArray,4))
 
 // Reference: https://stackoverflow.com/questions/57001515/sliding-window-over-array-in-javascript
+// Sliding window pattern with:
+// 1. Maximum sum subarray of size ‘K’ (easy)
+// 2. Longest substring with ‘K’ distinct characters (medium)
+// 3. String anagrams (hard)
